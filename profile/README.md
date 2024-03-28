@@ -1,7 +1,8 @@
 ## wechatbotKit is a tool lets u make your own bot easily
 
 ### Plan
-<img width="796" alt="image" src="https://github.com/wechatbotKit/.github/assets/13482835/600f6d35-779b-4bc7-ba1b-683e897bbbe1">
+<img width="769" alt="image" src="https://github.com/wechatbotKit/.github/assets/13482835/b2df20e6-3fce-4cd9-a185-0e00e8cd9da5">
+
 
 
 
